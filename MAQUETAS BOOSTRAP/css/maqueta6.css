@@ -1,0 +1,121 @@
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+
+
+#title1 {
+    width: 400px;
+    background-color: white;
+    top: 550px;
+    position: relative;
+    text-align: left;
+}
+
+#title2 {
+    color: white;
+    top: 550px;
+    position: relative;
+    text-align: left;
+}
+
+#title3 {
+    /* top: 100px; */
+    position: relative;
+    color: white;
+    text-align: center;
+}
+
+#title4 {
+    /* top: 100px; */
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+#title5 {
+    background: #3E5151;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #DECBA4, #3E5151);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #DECBA4, #3E5151);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#title6 {
+    top: 180px;
+    color: white;
+    position: relative;
+    text-align: center;
+}
+
+#title7 {
+    top: 150px;
+    color: white;
+    position: relative;
+    text-align: center;
+}
+
+#title8 {
+    top: 150px;
+    color: white;
+    position: relative;
+    text-align: center;
+}
+
+#A {
+    color: white;
+}
+
+#container2 {
+    background: #3E5151;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #DECBA4, #3E5151);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #DECBA4, #3E5151);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#container3 {
+    position: relative;
+    left: 11px;
+}
+
+#container4 {
+    position: relative;
+    left: 50px;
+    width: auto;
+}
+
+#container5 {
+    position: relative;
+    left: 50px;
+}
+
+#caja1 {
+    height: 690px;
+    background-image: url(https://images.pexels.com/photos/325876/pexels-photo-325876.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+
+#caja2 {
+    height: 700px;
+}
+
+
+#caja4 {
+    height: 400px;
+    background-image: url(https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+
+#caja5 {
+
+    height: 400px;
+    background-image: url(https://images.pexels.com/photos/1210484/pexels-photo-1210484.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}

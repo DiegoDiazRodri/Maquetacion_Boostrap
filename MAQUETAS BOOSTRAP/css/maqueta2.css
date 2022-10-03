@@ -1,0 +1,32 @@
+#header{
+    background-color: orange;
+    text-align: center;
+}
+
+#col1{
+    background-color: blue;
+    height: 300px;
+    text-align: center;
+}
+
+#col2{
+    background-color: rgb(0, 255, 34);
+    height: 300px;
+    text-align: center;
+}
+
+#col3{
+    background-color: rgb(255, 81, 0);
+    height: 300px;
+    text-align: center;
+}
+
+#footer1{
+   background-color: rgb(162, 0, 255);
+    text-align: center;
+}
+
+#footer2{
+    background-color: rgb(204, 0, 255);
+    text-align: center;
+}

@@ -1,0 +1,37 @@
+#header{
+    background-color: orange;
+    text-align: center;
+}
+
+#title1{
+    background-color: blue;
+    text-align: center;
+}
+
+#con1{
+    background-color: rgb(0, 255, 34);
+    height: 300px;
+    text-align: center;
+}
+
+#con2{
+    background-color: rgb(255, 81, 0);
+    height: 300px;
+    text-align: center;
+}
+
+#con3{
+    background-color: rgb(0, 153, 255);
+    height: 300px;
+    text-align: center;
+}
+
+#con4{
+    background-color: rgb(238, 255, 0);
+    text-align: center;
+}
+
+#footer{
+   background-color: rgb(162, 0, 255);
+    text-align: center;
+}

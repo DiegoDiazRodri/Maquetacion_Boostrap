@@ -1,0 +1,110 @@
+#tit {
+    background: #000000;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+}
+
+#men {
+    background: #000000;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+}
+
+#cont {
+    background: #000000;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#img1 {
+    float: left;
+}
+
+#img2 {
+    float: right;
+}
+
+
+@media(max-width: 1400px) {
+    #img1 {
+        float: left;
+    }
+}
+
+@media(max-width: 1400px) {
+    #img2 {
+        float: right;
+    }
+}
+
+@media(max-width: 992px) {
+    #img2 {
+        float: left;
+    }
+}
+
+@media(max-width: 992px) {
+    #text {
+        float: right;
+    }
+}
+
+@media(max-width: 1400px) {
+    #text {
+        float: right;
+    }
+}
+
+#text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    float: right;
+
+}
+
+#img3 {
+    float: left;
+
+
+}
+
+#img4 {
+    float: left;
+
+
+}
+
+#img5 {
+    float: left;
+
+
+}
+
+#img6 {
+    float: left;
+
+}
+
+#cos {
+    background: #000000;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
